@@ -1,0 +1,12 @@
+[environment]
+name = "development"
+
+[api_esp32cam]
+url = "192.168.0.105"
+
+[servo]
+time_transition=20 
+max_degree_pan = 180
+min_degree_pan = -180
+max_degree_tilt = 180
+min_degree_tilt = -180
