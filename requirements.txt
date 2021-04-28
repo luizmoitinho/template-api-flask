@@ -3,5 +3,5 @@ service==0.6.0
 networkx==2.3
 scikit-fuzzy==0.4.2
 requests==2.25.1
-Flask-Cors==3.0.10
-Flask==1.1.2
+flask-cors==3.0.10
+flask==1.1.2
