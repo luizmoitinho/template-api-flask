@@ -3,7 +3,7 @@ Template com o conjunto de artefatos iniciais para criação de um serviço em p
 
 ---
 
-## Configurações iniciais de ambiente
+#### Configurações iniciais de ambiente
 1. Instale um Virtual Environments do python.
 ```shell 
 sudo apt-get install python3-venv 
@@ -17,10 +17,10 @@ pip install -U requests
 ```shell
 pip install -U flask-cors
 ```
-## Docker
+#### Docker
 > Nota: É importante que tenha instalado e configurado em seu ambiente o <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04">Docker</a>. 
 
-## Executando
+#### Executando
 
 1. Instalar dependências do projeto
 ```shell
